@@ -2,8 +2,8 @@
 title: Christian Viau
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include timber engineering, blast loads, and extreme
+  loading on structures.
 interests:
   - Blast Load Effects on Structures
   - Timber Engineering
@@ -14,13 +14,13 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://twitter.com/Chrisviau
   - icon_pack: ai
     icon: google-scholar
     link: https://scholar.google.com/citations?user=mEANx7EAAAAJ&hl=en
+  - link: https://www.researchgate.net/profile/Christian_Viau2
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Royal Military College of Canada
     url: https://www.rmc-cmr.ca/en
@@ -42,7 +42,6 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
+Hello! I am an assistant professor at the Royal Military College of Canada in Kingston, Ontario Canada. I specialize in understanding how structures behave when subjected to extreme loading events, such impacts, ballistics, and blast explosions. The aim of my research is to mitigate the hazards associated with such events in existing structures, and to develop innovative strengthening and retrofitting techniques.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+While not the first material one might think of when discussing blast-resistant structures, I have spent a great deal of time looking at how wooden structures behave under blast loading, from light-frame construction to heavy- and mass-timber construction. Recent developments in design provisions and advancements in engineered wood products (EWPs), along with the need for more sustainable structures, have led to a paradigm shift where the general public and designers see beyond low-rise construction when considering wood as a construction material. With this increase in usage, timber structures are now more susceptible than ever to extreme loading events. This presents a research need that is ongoing, a major part of my overall research program.
