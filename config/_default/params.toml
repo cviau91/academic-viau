@@ -93,14 +93,14 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "13 General Crerar Crescent", city = "Kingston", region = "ON", postcode = "K7K 5H1", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "44.231176", longitude = "-76.467255"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter Girouard Building, through security, then make your way to Sawyer Building through the footbridge, take a right, Room 2301."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
