@@ -12,6 +12,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - link: https://ca.linkedin.com/in/christianviau
+    icon_pack: fab
+    icon: linkedin
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Chrisviau
