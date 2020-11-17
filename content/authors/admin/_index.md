@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Blast Load Effects on Structures
+  - Timber Engineering
+  - Extreme Dynamic Loadings
 social:
   - icon: envelope
     icon_pack: fas
