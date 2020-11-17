@@ -14,15 +14,14 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - icon_pack: fab
+    icon: google-scholar
+    link: https://scholar.google.com/citations?user=mEANx7EAAAAJ&hl=en
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Royal Military College of Canada
 education:
   courses:
     - course: PhD in Artificial Intelligence
