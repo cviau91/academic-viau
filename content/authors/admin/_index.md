@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
   - icon_pack: fab
-    icon: google-scholar
+    icon: google
     link: https://scholar.google.com/citations?user=mEANx7EAAAAJ&hl=en
 organizations:
   - name: Royal Military College of Canada
