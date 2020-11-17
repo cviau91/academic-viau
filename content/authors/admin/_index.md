@@ -1,6 +1,7 @@
 ---
 title: Christian Viau
 role: Assistant Professor
+avatar_filename: pic-copy.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -22,17 +23,18 @@ social:
     link: https://scholar.google.com/citations?user=mEANx7EAAAAJ&hl=en
 organizations:
   - name: Royal Military College of Canada
+    url: https://www.rmc-cmr.ca/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Civil Engineering
+      institution: University of Ottawa
+      year: 2020
+    - course: MASc in Civil Engineering
+      institution: University of Ottawa
+      year: 2016
+    - course: BASc in Civil Engineering
+      institution: University of Ottawa
+      year: 2014
 email: ""
 superuser: true
 user_groups:
